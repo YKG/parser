@@ -28,13 +28,13 @@ package parser
 import (
 	"strings"
 
-	"github.com/pingcap/parser/mysql"
-	"github.com/pingcap/parser/ast"
-	"github.com/pingcap/parser/model"
-	"github.com/pingcap/parser/opcode"
-	"github.com/pingcap/parser/auth"
-	"github.com/pingcap/parser/charset"
-	"github.com/pingcap/parser/types"
+	"github.com/YKG/parser/mysql"
+	"github.com/YKG/parser/ast"
+	"github.com/YKG/parser/model"
+	"github.com/YKG/parser/opcode"
+	"github.com/YKG/parser/auth"
+	"github.com/YKG/parser/charset"
+	"github.com/YKG/parser/types"
 )
 
 %}

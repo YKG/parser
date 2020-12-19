@@ -24,9 +24,9 @@ import (
 	"strings"
 
 	"github.com/pingcap/errors"
-	"github.com/pingcap/parser/charset"
-	"github.com/pingcap/parser/mysql"
-	"github.com/pingcap/parser/types"
+	"github.com/YKG/parser/charset"
+	"github.com/YKG/parser/mysql"
+	"github.com/YKG/parser/types"
 )
 
 // Kind constants.

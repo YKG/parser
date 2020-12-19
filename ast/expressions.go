@@ -20,9 +20,9 @@ import (
 	"strings"
 
 	"github.com/pingcap/errors"
-	"github.com/pingcap/parser/format"
-	"github.com/pingcap/parser/model"
-	"github.com/pingcap/parser/opcode"
+	"github.com/YKG/parser/format"
+	"github.com/YKG/parser/model"
+	"github.com/YKG/parser/opcode"
 )
 
 var (

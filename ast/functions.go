@@ -20,9 +20,9 @@ import (
 	"time"
 
 	"github.com/pingcap/errors"
-	"github.com/pingcap/parser/format"
-	"github.com/pingcap/parser/model"
-	"github.com/pingcap/parser/types"
+	"github.com/YKG/parser/format"
+	"github.com/YKG/parser/model"
+	"github.com/YKG/parser/types"
 )
 
 var (

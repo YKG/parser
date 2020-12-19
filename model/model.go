@@ -20,9 +20,9 @@ import (
 	"time"
 
 	"github.com/pingcap/errors"
-	"github.com/pingcap/parser/auth"
-	"github.com/pingcap/parser/mysql"
-	"github.com/pingcap/parser/types"
+	"github.com/YKG/parser/auth"
+	"github.com/YKG/parser/mysql"
+	"github.com/YKG/parser/types"
 )
 
 // SchemaState is the state for schema elements.
