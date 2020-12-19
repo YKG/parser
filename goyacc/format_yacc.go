@@ -23,8 +23,8 @@ import (
 	"regexp"
 	"strings"
 
-	parser "github.com/cznic/parser/yacc"
-	"github.com/cznic/strutil"
+	parser "github.com/chuanglian-dev/parser/yacc"
+	"github.com/YKG/strutil"
 	"github.com/pingcap/errors"
 	"github.com/pingcap/parser/format"
 )

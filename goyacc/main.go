@@ -141,11 +141,11 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/cznic/mathutil"
-	parser "github.com/cznic/parser/yacc"
-	"github.com/cznic/sortutil"
-	"github.com/cznic/strutil"
-	"github.com/cznic/y"
+	"github.com/YKG/mathutil"
+	parser "github.com/chuanglian-dev/parser/yacc"
+	"github.com/YKG/sortutil"
+	"github.com/YKG/strutil"
+	"github.com/YKG/y"
 )
 
 var (
